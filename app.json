@@ -1,14 +1,14 @@
 {
-    "name": "Trojan-ws-tls",
+    "name": "trofgstjanrt",
     "description": "Deploy Trojan-ws-tls on Heroku.",
     "keywords": ["Trojan-ws-tls"],
     "env": {
         "TRPWD": {
             "description": "Trojan Passwd",
-            "value": "X6LukWWfMuV9ejYsG0XWs5kVA1fF8v"
+            "value": "eyru3r7878IJHA6TYY%^TGH*&IUHG^&Rd3ue3"
         }
     },
-    "website": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
-    "repository": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
+    "website": "https://github.com/amiligy/trofgstjanrt",
+    "repository": "https://github.com/amiligy/trofgstjanrt",
     "stack": "container"
 }
